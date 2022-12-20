@@ -1,6 +1,3 @@
-#Note: 
-#Written by Khuslensaikhan.B 
-#It's a little snake game made using pygame library. Shoutout to the pygame.
 import random
 import pygame
 
